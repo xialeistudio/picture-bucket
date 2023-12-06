@@ -2,6 +2,6 @@
   {
     "name": "iOSVizor",
     "website": "https://iosvizor.com/",
-    "url": "http://10.2.141.36:8080/iosvizor.json"
+    "url": "https://raw.githubusercontent.com/xialeistudio/picture-bucket/main/iosvizor.json"
   }
 ]
