@@ -3,5 +3,10 @@
     "name": "iOSVizor",
     "website": "https://iosvizor.com/",
     "url": "https://raw.githubusercontent.com/xialeistudio/picture-bucket/main/iosvizor.json"
+  },
+  {
+    "name": "IPA Library",
+    "website": "https://ipalibrary.me/",
+    "url": "https://raw.githubusercontent.com/xialeistudio/picture-bucket/main/ipalibrary.json"
   }
 ]
